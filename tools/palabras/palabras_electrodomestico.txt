@@ -1,0 +1,8 @@
+electrodomésticos	0.6323
+electrico	0.5124
+reparacion	0.5033
+mueble	0.4789
+tecnico	0.4756
+lavadora	0.4741
+portatil	0.4719
+vehiculo	0.4698
